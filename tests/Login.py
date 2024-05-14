@@ -7,10 +7,6 @@ login="[type='submit']"
 dropdown="[class='oxd-userdropdown-name']"
 logout="//a[contains(text(),'Logout')]"
 
-
-
-
-
 data={
 'domain': 'opensource-demo.orangehrmlive.com',
  'httpOnly': True,
